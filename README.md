@@ -19,5 +19,5 @@
  </div>
 
  ## 
- #### Apaixonado por tecnologia e cursando Ciência da computação na Universidade Federal do Ceará
+ #### Apaixonado por tecnologia e cursando Ciência da computação na Universidade Federal do Ceará.
 
