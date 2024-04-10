@@ -4,11 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack developer
 -------------------
 
-Apaixonado por tecnologia e cursando Ciência da computação na Universidade Federal do Ceará.
+
+Passionate about technology
 
 * 🖥️  See my portfolio at [Meu Portifólio](http://ssaviorosa.github.io/)
 * ✉️  You can contact me at [saviorosa@alu.ufc.br](mailto:saviorosa@alu.ufc.br)
-* 🧠  I'm learning Ciência da Computação
+* 🧠  I'm learning computer science federal university of Ceara.
 
 ##
 
