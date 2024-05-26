@@ -9,7 +9,7 @@ Passionate about technology
 
 * 🖥️  See my portfolio at [Meu Portifólio](https://ssaviorosa.github.io/MyPortfolio/)
 * ✉️  You can contact me at [saviorosa@alu.ufc.br](mailto:saviorosa@alu.ufc.br)
-* 🧠  I'm learning computer science federal university of Ceara.
+* 🧠  I'm learning computer science at the Federal University of Ceará.
 
 ##
 
